@@ -104,6 +104,7 @@
     obstacle.zOrder = DrawingOrderPipes;
     [physicsNode addChild:obstacle];
     [_obstacles addObject:obstacle];
+   
 }
 
 #pragma mark - Update
